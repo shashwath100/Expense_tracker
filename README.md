@@ -165,3 +165,13 @@ All data is stored **locally in your browser** using `localStorage`. Nothing is 
 
 
 This project is open source and available under the [MIT License](LICENSE).
+## 📸 Project Screenshots
+
+### Dashboard View
+![Dashboard](screenshots/dashboard.png)
+
+### Add New Transaction
+![Add Expense](screenshots/add-expense.png)
+
+### Transaction History
+![Transactions](screenshots/transactions.png)
