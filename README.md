@@ -1,4 +1,7 @@
-﻿# 💰 FinTrack — Personal Expense Tracker
+## 🚀 Live Demo
+**[Click here to use FinTrack](https://shashwath100.github.io/Expense_tracker/)**
+ 
+ # 💰 FinTrack — Personal Expense Tracker
 
 A modern, fully client-side personal finance tracker built with vanilla HTML, CSS, and JavaScript. FinTrack helps you log income and expenses, visualize your spending habits with live charts, and manage your finances in your preferred currency — all without any backend or installation required.
 
